@@ -69,5 +69,4 @@ This project is licensed under the Universitas Sulawesi Barat.
 
 ````
 Syam, N. A. ., Arifin, N., Firgiawan, W. . and Rasyid, M. F. . (2025) “Comparison of SVM and Gradient Boosting with PCA for Website Phising Detection”, Jurnal Teknik Informatika (Jutif). Purwokerto, 6(2), pp. 691–708. doi: 10.52436/1.jutif.2025.6.2.4344.
-
 ````
